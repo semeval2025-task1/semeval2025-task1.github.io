@@ -25,14 +25,17 @@ Participants will be presented with a set of 5 images and a context sentence in 
 Participants will be given a target expression and an image sequence from which one of the images has been removed, and the objective will be to select the best fill from a sample of images drawn from across our dataset. The NC sense being depicted (idiomatic or literal) will not be given, and this label should also be output.
 ![Bad Apple - Subtask B](/docs/assets/badapple-subtaskb.png)
 
+More information about the task can be found in the ![task description document](/docs/assets/SemEval_2025_Task_1__ADMIRE__Advancing_Multimodal_Idiomaticity_Representation.pdf).
 
 ### Sample Data
-Sample data, consisting of 10 examples for both tasks will be available on the 15th July.
+Sample data, consisting of 10 examples for both tasks will be available on the 16th July.
 
+### Get Involved
+To discuss the task and ensure you receive information about future developments, join the [mailing list](https://groups.google.com/g/admire-semeval-2025).
 
 ### Important dates
 
-- Sample data available: 15 July 2024
+- Sample data available: 16 July 2024
 - Training data ready 2 September 2024
 - Evaluation start 10 January 2025
 - Evaluation end by 31 January 2025
@@ -46,7 +49,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 
 ### Organizers
 
-- [Tom Pickard](), University of Sheffield, UK
+- [Tom Pickard](https://scholar.google.com/citations?user=rNTmzakAAAAJ&hl=en), University of Sheffield, UK
 - [Wei He](), University of Sheffield, UK
 - [Maggie Mi](), University of Sheffield, UK
 - [Dylan Phelps](https://www.semanticscholar.org/author/Dylan-Phelps/2161561356), University of Sheffield, UK
@@ -54,11 +57,10 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Marco Idiart](https://sites.google.com/view/marcoidiart/home), Federal University of Rio Grande do Sul, Brazil
 - [Aline Villavicenio](https://sites.google.com/view/alinev), University of Exeter, UK
 
+__Contact:__ <semeval-2025-multimodal-idiomaticity@googlegroups.com>
+
 ### SemEval 2025 Resources
 
 - [Frequently Asked Questions about SemEval](https://semeval.github.io/faq.html)
 - [Paper Submission Requirements](https://semeval.github.io/paper-requirements.html)
 - [Guidelines for Writing Papers](https://semeval.github.io/system-paper-template.html)
-
-
-__Contact:__ <semrel-semeval-organisers@googlegroups.com>
