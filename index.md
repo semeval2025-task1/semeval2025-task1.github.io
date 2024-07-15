@@ -54,11 +54,11 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Marco Idiart](https://sites.google.com/view/marcoidiart/home), Federal University of Rio Grande do Sul, Brazil
 - [Aline Villavicenio](https://sites.google.com/view/alinev), University of Exeter, UK
 
-### Resources
+### SemEval 2025 Resources
 
-- [Frequently Asked Questions about SemEval](/faq.html)
-- [Paper Submission Requirements](/paper-requirements.html)
-- [Guidelines for Writing Papers](/system-paper-template.html)
+- [Frequently Asked Questions about SemEval](https://semeval.github.io/faq.html)
+- [Paper Submission Requirements](https://semeval.github.io/paper-requirements.html)
+- [Guidelines for Writing Papers](https://semeval.github.io/system-paper-template.html)
 
 
 __Contact:__ <semrel-semeval-organisers@googlegroups.com>
