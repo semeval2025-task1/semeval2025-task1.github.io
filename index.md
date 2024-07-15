@@ -2,7 +2,30 @@
 title: SemEval-2025 Task 1
 ---
 
-Welcome to the SemEval-2025 Task 1 homepage!
+
+### Motivation
+Comparing the performance of language models (including large LLMs) to humans shows that models lag behind humans in comprehension of idioms (Tayyar Madabushi et al., 2021; Chakrabarty et al., 2022a; Phelps et al., 2024). As idioms are believed to be conceptual products and humans understand their meaning from interactions with the real world involving multiple senses (Lakoff and Johnson, 1980; Benczes, 2002), we build on the previous SemEval-2022 Task 2 (Madabushi et al., 2022) and seek to explore the comprehension ability of multimodal models. In particular, we focus on models that incorporate visual and textual information to test how well they can capture representations and whether multiple modalities can improve these representations.
+
+Good representations of idioms are crucial for applications such as sentiment analysis, machine translation and natural language understanding. Exploring ways to improve models’ ability to interpret idiomatic expressions can enhance the performance of these applications. For example, due to poor automatic translation of an idiom, the Israeli PM appeared to call the winner of Eurovision 2018 a ‘real cow’ instead of a ‘real darling’! Our hope is that this task will help the NLP community to better understand the limitations of contemporary language models and to make advances in idiomaticity representation.
+
+Several previous tasks have explore how language models represent idiomaticity. However, as highlighted by Boisson et al (2023), artifacts present in these datasets may allow models to perform well at the idiomaticity detection task without necessarily developing high-quality representations of the semantics of idiomatic expressions. 
+
+
+### Task Details
+We present two subtasks which we hope will address these shortcomings by moving away from binary classification and by introducing representations of meaning using visual and visual-temporal modalities, across two languages, English and Portuguese.
+
+In order to reduce potential barriers to participation, we also provide a variation of both subtasks in which the images are replaced with text captions describing their content. Two settings are therefore available for each subtask; one in which only the text is available, and one which uses the images.
+
+The two subtasks are:
+#### Subtask A - Static Images
+Participants will be presented with a set of 5 images and a context sentence in which a particular potentially idiomatic nominal compound (NC) appears. The goal is to rank the images according to how well they represent the sense in which the NC is used in the given context sentence.
+
+#### Subtask B - Image Sequences (or Next Image Prediction)
+Participants will be given a target expression and an image sequence from which one of the images has been removed, and the objective will be to select the best fill from a sample of images drawn from across our dataset. The NC sense being depicted (idiomatic or literal) will not be given, and this label should also be output.
+
+
+### Sample Data
+Sample data, consisting of 10 examples for both tasks will be available on the 15th July.
 
 
 ### Important dates
@@ -24,10 +47,10 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Tom Pickard](), University of Sheffield, UK
 - [Wei He](), University of Sheffield, UK
 - [Maggie Mi](), University of Sheffield, UK
-- [Dylan Phelps](), University of Sheffield, UK
-- [Carolina Scarton](), University of Sheffield, UK
-- [Marco Idiart](), Federal University of Rio Grande do Sul, Brazil
-- [Aline Villavicenio](), University of Exeter, UK
+- [Dylan Phelps](https://www.semanticscholar.org/author/Dylan-Phelps/2161561356), University of Sheffield, UK
+- [Carolina Scarton](https://carolscarton.github.io/), University of Sheffield, UK
+- [Marco Idiart](https://sites.google.com/view/marcoidiart/home), Federal University of Rio Grande do Sul, Brazil
+- [Aline Villavicenio](https://sites.google.com/view/alinev), University of Exeter, UK
 
 ### Resources
 
