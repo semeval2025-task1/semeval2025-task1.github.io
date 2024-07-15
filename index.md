@@ -18,12 +18,12 @@ In order to reduce potential barriers to participation, we also provide a variat
 
 The two subtasks are:
 #### Subtask A - Static Images
-![Bad Apple - Subtask A](/docs/assets/badapple-subtaska.png)
 Participants will be presented with a set of 5 images and a context sentence in which a particular potentially idiomatic nominal compound (NC) appears. The goal is to rank the images according to how well they represent the sense in which the NC is used in the given context sentence.
+![Bad Apple - Subtask A](/docs/assets/badapple-subtaska.png)
 
 #### Subtask B - Image Sequences (or Next Image Prediction)
-![Bad Apple - Subtask B](/docs/assets/badapple-subtaskb.png)
 Participants will be given a target expression and an image sequence from which one of the images has been removed, and the objective will be to select the best fill from a sample of images drawn from across our dataset. The NC sense being depicted (idiomatic or literal) will not be given, and this label should also be output.
+![Bad Apple - Subtask B](/docs/assets/badapple-subtaskb.png)
 
 
 ### Sample Data
