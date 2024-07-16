@@ -28,7 +28,8 @@ Participants will be given a target expression and an image sequence from which 
 More information about the task can be found in the ![task description document](/docs/assets/SemEval_2025_Task_1__ADMIRE___Advancing_Multimodal_Idiomaticity_Representation.pdf).
 
 ### Sample Data
-Sample data, consisting of 10 examples for both tasks will be available on the 16th July.
+
+See the [Sample Data page](/data/sample/sample_data.md) to explore a sample of training data for both subtasks A and B.
 
 ### Get Involved
 To discuss the task and ensure you receive information about future developments, join the [mailing list](https://groups.google.com/g/admire-semeval-2025).
