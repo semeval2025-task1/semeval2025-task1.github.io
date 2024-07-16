@@ -25,7 +25,7 @@ Participants will be presented with a set of 5 images and a context sentence in 
 Participants will be given a target expression and an image sequence from which one of the images has been removed, and the objective will be to select the best fill from a sample of images drawn from across our dataset. The NC sense being depicted (idiomatic or literal) will not be given, and this label should also be output.
 ![Bad Apple - Subtask B](/docs/assets/badapple-subtaskb.png)
 
-More information about the task can be found in the ![task description document](/docs/assets/SemEval_2025_Task_1__ADMIRE__Advancing_Multimodal_Idiomaticity_Representation.pdf).
+More information about the task can be found in the ![task description document](/docs/assets/SemEval_2025_Task_1__ADMIRE___Advancing_Multimodal_Idiomaticity_Representation.pdf).
 
 ### Sample Data
 Sample data, consisting of 10 examples for both tasks will be available on the 16th July.
