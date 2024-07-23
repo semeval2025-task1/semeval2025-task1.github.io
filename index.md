@@ -2,9 +2,7 @@
 title: SemEval-2025 Task 1
 ---
 
-<img src="docs/assets/1.png" width="200">
-
-![Bad Apple - Subtask A](/docs/assets/1.png)  ![Bad Apple - Subtask A](/docs/assets/4.png)
+<img src="docs/assets/1.png" width="250">  <img src="docs/assets/4.png" width="250">
 
 Which of these images best represents the meaning of the phrase _bad apple_ in the following sentence?
 "We have to recognize that this is not the occasional bad apple but a structural, sector-wide problem"
