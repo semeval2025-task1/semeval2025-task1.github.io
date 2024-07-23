@@ -10,7 +10,7 @@ Which of these images best represents the meaning of the phrase _bad apple_ in t
 
 How about here?
 
-?"However, if ethylene happens to be around (say from a bad apple), these fruits do ripen more quickly."
+> "However, if ethylene happens to be around (say from a bad apple), these fruits do ripen more quickly."
 
 
 
