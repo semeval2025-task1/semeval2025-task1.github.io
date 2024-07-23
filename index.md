@@ -4,7 +4,7 @@ title: SemEval-2025 Task 1
 
 <img src="docs/assets/1.png" width="500">  <img src="docs/assets/4.png" width="500">
 
-Which of these images best represents the meaning of the phrase _bad apple_ in the following sentence?:
+Which of these images best represents the meaning of the phrase ___bad apple___ in the following sentence?:
 
 > "We have to recognize that this is not the occasional bad apple but a structural, sector-wide problem"
 
@@ -12,10 +12,15 @@ How about here?
 
 > "However, if ethylene happens to be around (say from a bad apple), these fruits do ripen more quickly."
 
+Even if you aren't already familiar with the non-literal idiomatic meaning of _bad apple_ (an individual whose influence negatively impacts the behaviour or reputation of a group or organisation), as a human you might be able to answer this question fairly easily.
+
+Computational language models, on the other hand, struggle with figurative expressions such as these.
+
+By using visual representations like these, the __AdMIRe__ task aims to push participants to improve the quality of model representations of idiomatic expressions and develop models which come closer to "understanding" the semantic meaning of idioms, which are an important feature of natural language.
 
 
 ### Motivation
-Comparing the performance of language models (including large LLMs) to humans shows that models lag behind humans in comprehension of idioms ([Tayyar Madabushi et al., 2021](https://doi.org/10.18653/v1/2021.findings-emnlp.294); [Chakrabarty et al., 2022a](https://doi.org/10.18653/v1/2022.emnlp-main.481); [Phelps et al., 2024](https://aclanthology.org/2024.mwe-1.22)). As idioms are believed to be conceptual products and humans understand their meaning from interactions with the real world involving multiple senses ([Lakoff and Johnson, 1980](https://doi.org/10.1207/s15516709cog0402_4); Benczes, 2002), we build on the previous SemEval-2022 Task 2 ([Madabushi et al., 2022](https://doi.org/10.18653/v1/2022.semeval-1.13)) and seek to explore the comprehension ability of multimodal models. In particular, we focus on models that incorporate visual and textual information to test how well they can capture representations and whether multiple modalities can improve these representations.
+Comparing the performance of language models (including large LLMs) to humans shows that models lag behind humans in comprehension of idioms ([Tayyar Madabushi et al., 2021](https://doi.org/10.18653/v1/2021.findings-emnlp.294); [Chakrabarty et al., 2022a](https://doi.org/10.18653/v1/2022.emnlp-main.481); [Phelps et al., 2024](https://aclanthology.org/2024.mwe-1.22)). As idioms are believed to be conceptual products and humans understand their meaning from interactions with the real world involving multiple senses ([Lakoff and Johnson, 1980](https://doi.org/10.1207/s15516709cog0402_4); Benczes, 200), we build on the previous SemEval-2022 Task 2 ([Madabushi et al., 2022](https://doi.org/10.18653/v1/2022.semeval-1.13)) and seek to explore the comprehension ability of multimodal models. In particular, we focus on models that incorporate visual and textual information to test how well they can capture representations and whether multiple modalities can improve these representations.
 
 Good representations of idioms are crucial for applications such as sentiment analysis, machine translation and natural language understanding. Exploring ways to improve models’ ability to interpret idiomatic expressions can enhance the performance of these applications. For example, due to poor automatic translation of an idiom, the Israeli PM appeared to call the winner of Eurovision 2018 a ‘real cow’ instead of a ‘real darling’! Our hope is that this task will help the NLP community to better understand the limitations of contemporary language models and to make advances in idiomaticity representation.
 
