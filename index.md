@@ -2,6 +2,15 @@
 title: SemEval-2025 Task 1
 ---
 
+![Bad Apple - Subtask A](/docs/assets/1.png)  ![Bad Apple - Subtask A](/docs/assets/4.png)
+
+Which of these images best represents the meaning of the phrase _bad apple_ in the following sentence?
+"We have to recognize that this is not the occasional bad apple but a structural, sector-wide problem"
+
+How about here?
+"However, if ethylene happens to be around (say from a bad apple), these fruits do ripen more quickly."
+
+
 
 ### Motivation
 Comparing the performance of language models (including large LLMs) to humans shows that models lag behind humans in comprehension of idioms ([Tayyar Madabushi et al., 2021](https://doi.org/10.18653/v1/2021.findings-emnlp.294); [Chakrabarty et al., 2022a](https://doi.org/10.18653/v1/2022.emnlp-main.481); [Phelps et al., 2024](https://aclanthology.org/2024.mwe-1.22)). As idioms are believed to be conceptual products and humans understand their meaning from interactions with the real world involving multiple senses ([Lakoff and Johnson, 1980](https://doi.org/10.1207/s15516709cog0402_4); Benczes, 2002), we build on the previous SemEval-2022 Task 2 ([Madabushi et al., 2022](https://doi.org/10.18653/v1/2022.semeval-1.13)) and seek to explore the comprehension ability of multimodal models. In particular, we focus on models that incorporate visual and textual information to test how well they can capture representations and whether multiple modalities can improve these representations.
