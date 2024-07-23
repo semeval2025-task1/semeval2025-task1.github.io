@@ -2,7 +2,7 @@
 title: SemEval-2025 Task 1
 ---
 
-<img src="docs/assets/1.png" width="500">  <img src="docs/assets/4.png" width="500">
+<img src="docs/assets/1.png" width="300">  <img src="docs/assets/4.png" width="300">
 
 Which of these images best represents the meaning of the phrase ___bad apple___ in the following sentence?:
 
