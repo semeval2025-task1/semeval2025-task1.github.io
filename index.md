@@ -68,7 +68,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 
 - [Tom Pickard](https://scholar.google.com/citations?user=rNTmzakAAAAJ&hl=en), University of Sheffield, UK
 - [Wei He](), University of Sheffield, UK
-- [Maggie Mi](), University of Sheffield, UK
+- [Maggie Mi](https://mi-m1.github.io/), University of Sheffield, UK
 - [Dylan Phelps](https://www.semanticscholar.org/author/Dylan-Phelps/2161561356), University of Sheffield, UK
 - [Carolina Scarton](https://carolscarton.github.io/), University of Sheffield, UK
 - [Marco Idiart](https://sites.google.com/view/marcoidiart/home), Federal University of Rio Grande do Sul, Brazil
