@@ -45,8 +45,6 @@ More information about the task can be found in the [task description document](
 
 ### Data
 
-$${\color{red}Subtask A Training data now available}$$ for English
-
 Training data can be obtained from the [Training Data page](/data/training/training_data.md).
 
 Subtask B training data for English and Portuguese training data for both subtasks coming soon.
