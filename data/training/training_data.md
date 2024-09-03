@@ -20,5 +20,5 @@ Portuguese training data for Subtask A coming soon.
 
 Coming soon.
 
-If you'd like to examine a sample of the training data, see the Sample Data page.
+If you'd like to examine a sample of the training data, see the [Sample Data page](/data/sample/sample_data.md).
 
