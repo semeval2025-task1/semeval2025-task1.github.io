@@ -43,7 +43,15 @@ Participants will be given a target expression and an image sequence from which 
 
 More information about the task can be found in the [task description document](/docs/assets/SemEval_2025_Task_1__ADMIRE___Advancing_Multimodal_Idiomaticity_Representation.pdf).
 
-### Sample Data
+### Data
+
+$${\color{red}Subtask A Training data now available}$$ for English
+
+Training data can be obtained from the [Training Data page](/data/training/training_data.md).
+
+Subtask B training data for English and Portuguese training data for both subtasks coming soon.
+
+#### Sample Data
 
 See the [Sample Data page](/data/sample/sample_data.md) to explore a sample of training data for both subtasks A and B.
 
@@ -53,7 +61,8 @@ To discuss the task and ensure you receive information about future developments
 ### Important dates
 
 - [Sample data](/data/sample/sample_data.md) available: 16 July 2024
-- Training data ready 2 September 2024
+- Subtask A (English) [Training data](/data/training/training_data.md) now available
+-- Subtask B (English) training data and Portuguese training data coming soon 
 - Evaluation start 10 January 2025
 - Evaluation end by 31 January 2025
 - Paper submission due 28 February 2025
