@@ -38,7 +38,7 @@ Participants will be presented with a set of 5 images and a context sentence in 
 ![Bad Apple - Subtask A](/docs/assets/badapple-subtaska.png)
 
 #### Subtask B - Image Sequences (or Next Image Prediction)
-Participants will be given a target expression and an image sequence from which one of the images has been removed, and the objective will be to select the best fill from a sample of images drawn from across our dataset. The NC sense being depicted (idiomatic or literal) will not be given, and this label should also be output.
+Participants will be given a target expression and an image sequence from which the last of 3 images has been removed, and the objective will be to select the best fill from a set of candidate images. The NC sense being depicted (idiomatic or literal) will not be given, and this label should also be output.
 ![Bad Apple - Subtask B](/docs/assets/badapple-subtaskb.png)
 
 More information about the task can be found in the [task description document](/docs/assets/SemEval_2025_Task_1__ADMIRE___Advancing_Multimodal_Idiomaticity_Representation.pdf).
