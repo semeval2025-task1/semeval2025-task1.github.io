@@ -45,13 +45,13 @@ More information about the task can be found in the [task description document](
 
 ### Data
 
-Training data can be obtained from the [Training Data page](/data/training/training_data.md).
+English training data for both subtasks can be obtained from the [Training Data page](/data/training/training_data.md).
 
-Subtask B training data for English and Portuguese training data for both subtasks coming soon.
+Portuguese training data for both subtasks coming soon.
 
 #### Sample Data
 
-See the [Sample Data page](/data/sample/sample_data.md) to explore a sample of training data for both subtasks A and B.
+See the [Sample Data page](/data/sample/sample_data.md) to explore a sample of (English) training data for both subtasks A and B.
 
 ### Get Involved
 To discuss the task and ensure you receive information about future developments, join the [mailing list](https://groups.google.com/g/admire-semeval-2025).
@@ -60,7 +60,8 @@ To discuss the task and ensure you receive information about future developments
 
 - [Sample data](/data/sample/sample_data.md) available: 16 July 2024
 - Subtask A (English) [Training data](/data/training/training_data.md) now available
--- Subtask B (English) training data and Portuguese training data coming soon 
+- Subtask B (English) [Training data](/data/training/training_data.md) now available
+- Portuguese training data coming soon 
 - Evaluation start 10 January 2025
 - Evaluation end by 31 January 2025
 - Paper submission due 28 February 2025
