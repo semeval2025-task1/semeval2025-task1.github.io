@@ -80,7 +80,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Dylan Phelps](https://www.semanticscholar.org/author/Dylan-Phelps/2161561356), University of Sheffield, UK
 - [Carolina Scarton](https://carolscarton.github.io/), University of Sheffield, UK
 - [Marco Idiart](https://sites.google.com/view/marcoidiart/home), Federal University of Rio Grande do Sul, Brazil
-- [Aline Villavicenio](https://sites.google.com/view/alinev), University of Exeter, UK
+- [Aline Villavicencio](https://sites.google.com/view/alinev), University of Exeter, UK
 
 __Contact:__ <semeval-2025-multimodal-idiomaticity@googlegroups.com>
 
