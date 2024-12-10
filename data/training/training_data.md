@@ -13,7 +13,9 @@ English training data for Subtask A can be obtained here:
 
 #### Portuguese
 
-Portuguese training data for Subtask A coming soon.
+Portuguese training data for Subtask A can be obtained here:
+
+[Subtask A Training Data - Portuguese](https://drive.google.com/file/d/1wXikkvk5wMP14GNWjkqm662IHKZbzN-R/view?usp=drive_link)
 
 
 ### Subtask B - Sequences
@@ -22,14 +24,10 @@ English training data for Subtask B are now available:
 
 [Subtask B Training Data - English](https://drive.google.com/file/d/1SL_1ARAyyWRCq3a0Fq8qhWj8EJwpPY4k/view?usp=sharing)
 
-#### Portuguese
-
-Portuguese training data for Subtask B coming soon.
 
 
 
-
-If you'd like to examine a smaller sample of the training data, see the [Sample Data page](/data/sample/sample_data.md).
+If you'd like to examine a smaller sample of the (English) training data, see the [Sample Data page](/data/sample/sample_data.md).
 
 
 ### Data Description
@@ -62,6 +60,34 @@ Image name and caption fields are ordered by the (randomised) image filename.
 
     Subfolders
 		One subfolder for each target **compound**. Each subfolder contains 5 image files, corresponding to the entries in **image1_name** to **image5_name**.
+
+
+AdMIRe Subtask A PT Train.zip
+
+Brazilian Portuguese training data for Subtask A.
+
+31 items.
+
+
+	subtask_a_train.tsv
+		Tab-separated dataset.
+
+		Columns:
+		**compound**		The potentially idiomatic noun compound to which the other data relates. This compound will appear (once) within **sentence**.
+    **subset**			Indicates the data subset to which the item belongs. Values: {Train, Dev, Test}. Only {Train} will appear in this dataset. All items in this dataset can be used for training purposes. 
+    **sentence_type**	Indicates which sense of **compound** is used in **sentence**. Values: {idiomatic, literal}. This field will _not_ be included in dev and test data and should not be consumed by participating systems. It is provided here for information and analysis purposes, and as a possible target for system component training.
+    **sentence**		Target sentence in which **compound** appears.
+    **expected_order**	List of image names. This is the target output for the shared task which will be used for evaluation. This field will not be included in dev and test datasets.
+    **image{n}_name**	Filename of the nth candidate image. This file is located in the subfolder which shares its name with **compound**, e.g. "green fingers/10027562830.png".
+    **image{n}_caption**	Machine-generated descriptive caption of the nth candidate image. This is intended for participants who do not wish to perform image processing, but may be used to supplement the image files if desired. Note that the descriptions may not accurately reflect the intended content of the image, as they are the output of automatic captioning.
+    **image{n}_caption_pt**	Machine-generated descriptive caption of the nth candidate image in Portuguese. Note that this is generated independently of the English caption, not as a direct translation.
+
+Note: {n} for image name and caption ranges from 1 to 5 inclusive.
+Image name and caption fields are ordered by the (randomised) image filename.
+
+    Subfolders
+		One subfolder for each target **compound**. Each subfolder contains 5 image files, corresponding to the entries in **image1_name** to **image5_name**.
+
 
 ## Subtask B
 
