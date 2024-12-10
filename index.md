@@ -49,6 +49,8 @@ English training data for both subtasks can be obtained from the [Training Data 
 
 Portuguese training data for Subtask A are also available from the [Training Data page](/data/training/training_data.md).
 
+Development (model/system selection) data are now available from the [Development Data page](/data/dev/development_data.md).
+
 #### Sample Data
 
 See the [Sample Data page](/data/sample/sample_data.md) to explore a sample of (English) training data for both subtasks A and B.
@@ -62,6 +64,7 @@ To discuss the task and ensure you receive information about future developments
 - Subtask A (English) [Training data](/data/training/training_data.md) now available
 - Subtask B (English) [Training data](/data/training/training_data.md) now available
 - Subtask A (Bazilian Portuguese) [Training data](/data/training/training_data.md) now available
+- [Development data](/data/dev/development_data.md) now available
 - Evaluation start 10 January 2025
 - Evaluation end by 31 January 2025
 - Paper submission due 28 February 2025
