@@ -64,11 +64,13 @@ We have set up a benchmark competition on [CodaBench](https://www.codabench.org/
 #### Subtask A
 
 **TEXT AND IMAGES**: [https://www.codabench.org/competitions/4345/](https://www.codabench.org/competitions/4345/)
+
 **TEXT ONLY**: [https://www.codabench.org/competitions/4813/](https://www.codabench.org/competitions/4813/)
 
 #### Subtask B
 
 **TEXT AND IMAGES**: [https://www.codabench.org/competitions/4814/](https://www.codabench.org/competitions/4814/)
+
 **TEXT ONLY**: [https://www.codabench.org/competitions/4815/](https://www.codabench.org/competitions/4815/)
 
 
