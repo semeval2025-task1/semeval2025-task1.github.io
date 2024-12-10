@@ -47,7 +47,7 @@ More information about the task can be found in the [task description document](
 
 English training data for both subtasks can be obtained from the [Training Data page](/data/training/training_data.md).
 
-Portuguese training data for both subtasks coming soon.
+Portuguese training data for Subtask A are also available from the [Training Data page](/data/training/training_data.md).
 
 #### Sample Data
 
@@ -61,7 +61,7 @@ To discuss the task and ensure you receive information about future developments
 - [Sample data](/data/sample/sample_data.md) available: 16 July 2024
 - Subtask A (English) [Training data](/data/training/training_data.md) now available
 - Subtask B (English) [Training data](/data/training/training_data.md) now available
-- Portuguese training data coming soon 
+- Subtask A (Bazilian Portuguese) [Training data](/data/training/training_data.md) now available
 - Evaluation start 10 January 2025
 - Evaluation end by 31 January 2025
 - Paper submission due 28 February 2025
