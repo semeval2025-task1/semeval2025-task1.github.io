@@ -58,6 +58,20 @@ See the [Sample Data page](/data/sample/sample_data.md) to explore a sample of (
 ### Get Involved
 To discuss the task and ensure you receive information about future developments, join the [mailing list](https://groups.google.com/g/admire-semeval-2025).
 
+We have set up a benchmark competition on [CodaBench](https://www.codabench.org/) for each of the subtasks and for the "image and text" and "text only" tracks.
+**Please ensure that you are working in the correct competition** for your system configuration.
+
+#### Subtask A
+
+**TEXT AND IMAGES**: [https://www.codabench.org/competitions/4345/](https://www.codabench.org/competitions/4345/)
+**TEXT ONLY**: [https://www.codabench.org/competitions/4813/](https://www.codabench.org/competitions/4813/)
+
+#### Subtask B
+
+**TEXT AND IMAGES**: [https://www.codabench.org/competitions/4814/](https://www.codabench.org/competitions/4814/)
+**TEXT ONLY**: [https://www.codabench.org/competitions/4815/](https://www.codabench.org/competitions/4815/)
+
+
 ### Important dates
 
 - [Sample data](/data/sample/sample_data.md) available: 16 July 2024
