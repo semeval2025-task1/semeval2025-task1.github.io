@@ -66,7 +66,7 @@ AdMIRe Subtask A PT Train.zip
 
 Brazilian Portuguese training data for Subtask A.
 
-31 items.
+32 items.
 
 
 	subtask_a_train.tsv
