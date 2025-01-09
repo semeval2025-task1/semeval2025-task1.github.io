@@ -51,6 +51,11 @@ Portuguese training data for Subtask A are also available from the [Training Dat
 
 Development (model/system selection) data are now available from the [Development Data page](/data/dev/development_data.md).
 
+Evaluation (competition ranking) data are now available from the [Evaluation Data page](/data/test/test_data.md).
+
+Note that CodaBench submissions are limited in the evaluation phase to ensure that model selection is fair. 
+If you wish to test systems for model selection purposes during the evaluation phase, we have set up benchmarks using the training ([Subtask A](https://www.codabench.org/competitions/4921/), [Subtask B](https://www.codabench.org/competitions/4923/)) and development sets ([Subtask A](https://www.codabench.org/competitions/4920/), [Subtask B](https://www.codabench.org/competitions/4922/)).
+
 #### Sample Data
 
 See the [Sample Data page](/data/sample/sample_data.md) to explore a sample of (English) training data for both subtasks A and B.
@@ -67,11 +72,17 @@ We have set up a benchmark competition on [CodaBench](https://www.codabench.org/
 
 **TEXT ONLY**: [https://www.codabench.org/competitions/4813/](https://www.codabench.org/competitions/4813/)
 
+Note that CodaBench submissions are limited in the evaluation phase to ensure that model selection is fair. 
+If you wish to test systems for model selection purposes during the evaluation phase, we have set up benchmarks for Subtask A using the [training](https://www.codabench.org/competitions/4921/) and [development](https://www.codabench.org/competitions/4922/) datasets.
+
 #### Subtask B
 
 **TEXT AND IMAGES**: [https://www.codabench.org/competitions/4814/](https://www.codabench.org/competitions/4814/)
 
 **TEXT ONLY**: [https://www.codabench.org/competitions/4815/](https://www.codabench.org/competitions/4815/)
+
+Note that CodaBench submissions are limited in the evaluation phase to ensure that model selection is fair. 
+If you wish to test systems for model selection purposes during the evaluation phase, we have set up benchmarks for Subtask B using the [training](https://www.codabench.org/competitions/4923/) and [development](https://www.codabench.org/competitions/4922/) datasets.
 
 
 ### Important dates
@@ -81,7 +92,8 @@ We have set up a benchmark competition on [CodaBench](https://www.codabench.org/
 - Subtask B (English) [Training data](/data/training/training_data.md) now available
 - Subtask A (Bazilian Portuguese) [Training data](/data/training/training_data.md) now available
 - [Development data](/data/dev/development_data.md) now available
-- Evaluation start 10 January 2025
+- [Evaluation data](/data/test/test_data.md) now available
+- Evaluation start **10 January 2025**
 - Evaluation end by 31 January 2025
 - Paper submission due 28 February 2025
 - Notification to authors 31 March 2025
