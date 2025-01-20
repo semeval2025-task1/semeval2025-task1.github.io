@@ -7,6 +7,7 @@ Test datasets are to be used for final system performance evaluation and competi
 Note that labels are not supplied for the test data; output scoring should be done using the CodaBench platform.
 
 **Update 2025-01-20:** We have released extended evaluation sets for each language. The compounds used in these sets overlap with the training, development and test sets but they feature different context sentences in which the compounds appear. The increased evaluation set size will hopefully enable more robust assessment of model performance.
+
 Note that the extended evaluation sets exist *in addition to* the primary test sets.
 
 
