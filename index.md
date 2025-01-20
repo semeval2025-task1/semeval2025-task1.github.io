@@ -93,6 +93,7 @@ If you wish to test systems for model selection purposes during the evaluation p
 - Subtask A (Bazilian Portuguese) [Training data](/data/training/training_data.md) now available
 - [Development data](/data/dev/development_data.md) now available
 - [Evaluation data](/data/test/test_data.md) now available
+- - **Extended evaluation data are now available**
 - Evaluation start **10 January 2025**
 - Evaluation end by 31 January 2025
 - Paper submission due 28 February 2025
