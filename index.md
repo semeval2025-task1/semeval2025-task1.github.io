@@ -49,40 +49,30 @@ English training data for both subtasks can be obtained from the [Training Data 
 
 Portuguese training data for Subtask A are also available from the [Training Data page](/data/training/training_data.md).
 
-Development (model/system selection) data are now available from the [Development Data page](/data/dev/development_data.md).
+Development (model/system selection) data are available from the [Development Data page](/data/dev/development_data.md).
 
-Evaluation (competition ranking) data are now available from the [Evaluation Data page](/data/test/test_data.md).
-
-Note that CodaBench submissions are limited in the evaluation phase to ensure that model selection is fair. 
-If you wish to test systems for model selection purposes during the evaluation phase, we have set up benchmarks using the training ([Subtask A](https://www.codabench.org/competitions/4921/), [Subtask B](https://www.codabench.org/competitions/4923/)) and development sets ([Subtask A](https://www.codabench.org/competitions/4920/), [Subtask B](https://www.codabench.org/competitions/4922/)).
+Evaluation (competition ranking) data are available from the [Evaluation Data page](/data/test/test_data.md).
 
 #### Sample Data
 
-See the [Sample Data page](/data/sample/sample_data.md) to explore a sample of (English) training data for both subtasks A and B.
+See the [Sample Data page](/data/sample/sample_data.md) to explore a small sample of (English) training data for both subtasks A and B.
 
 ### Get Involved
-To discuss the task and ensure you receive information about future developments, join the [mailing list](https://groups.google.com/g/admire-semeval-2025).
+To discuss the task and receive information about future developments, join the [mailing list](https://groups.google.com/g/admire-semeval-2025).
 
-We have set up a benchmark competition on [CodaBench](https://www.codabench.org/) for each of the subtasks and for the "image and text" and "text only" tracks.
-**Please ensure that you are working in the correct competition** for your system configuration.
+The SemEval-2025 competition period has now ended, but the AdMIRe benchmarks remain open on [CodaBench](https://www.codabench.org/) for each of the subtasks, and can be used to evaluate models against the reference data.
 
 #### Subtask A
 
-**TEXT AND IMAGES**: [https://www.codabench.org/competitions/4345/](https://www.codabench.org/competitions/4345/)
-
-**TEXT ONLY**: [https://www.codabench.org/competitions/4813/](https://www.codabench.org/competitions/4813/)
-
-Note that CodaBench submissions are limited in the evaluation phase to ensure that model selection is fair. 
-If you wish to test systems for model selection purposes during the evaluation phase, we have set up benchmarks for Subtask A using the [training](https://www.codabench.org/competitions/4921/) and [development](https://www.codabench.org/competitions/4922/) datasets.
+- Subtask A [training set](https://www.codabench.org/competitions/4921/) benchmark
+- Subtask A [development set](https://www.codabench.org/competitions/4920/) benchmark
+- Subtask A [test and extended evaluation](https://www.codabench.org/competitions/4345/) benchmark
 
 #### Subtask B
 
-**TEXT AND IMAGES**: [https://www.codabench.org/competitions/4814/](https://www.codabench.org/competitions/4814/)
-
-**TEXT ONLY**: [https://www.codabench.org/competitions/4815/](https://www.codabench.org/competitions/4815/)
-
-Note that CodaBench submissions are limited in the evaluation phase to ensure that model selection is fair. 
-If you wish to test systems for model selection purposes during the evaluation phase, we have set up benchmarks for Subtask B using the [training](https://www.codabench.org/competitions/4923/) and [development](https://www.codabench.org/competitions/4922/) datasets.
+- Subtask B [training set](https://www.codabench.org/competitions/4923/) benchmark
+- Subtask B [development set](https://www.codabench.org/competitions/4922/) benchmark
+- Subtask B [test and extended evaluation](https://www.codabench.org/competitions/4814/) benchmark
 
 
 ### Important dates
@@ -94,9 +84,9 @@ If you wish to test systems for model selection purposes during the evaluation p
 - [Development data](/data/dev/development_data.md) now available
 - [Evaluation data](/data/test/test_data.md) now available
 - - **Extended evaluation data are now available**
-- Evaluation start **10 January 2025**
+- Evaluation start 10 January 2025
 - Evaluation end by 31 January 2025
-- Paper submission due 28 February 2025
+- **Paper submission due 28 February 2025**
 - Notification to authors 31 March 2025
 - Camera ready due 21 April 2025
 - SemEval workshop Summer 2025 (co-located with a major NLP conference)
