@@ -1,4 +1,4 @@
 title: SemEval-2025 Task 1
 description: AdMIRe - Advancing Multimodal Idiomaticity Representation
 theme: jekyll-theme-slate
-markdown: GFM
+markdown: kramdown
