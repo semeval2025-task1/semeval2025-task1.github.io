@@ -62,6 +62,8 @@ To discuss the task and receive information about future developments, join the 
 
 The SemEval-2025 competition period has now ended, but the AdMIRe benchmarks remain open on [CodaBench](https://www.codabench.org/) for each of the subtasks, and can be used to evaluate models against the reference data.
 
+**Preliminary leaderboards are available on the [Results page](/docs/results.md).**
+
 #### Subtask A
 
 - Subtask A [training set](https://www.codabench.org/competitions/4921/) benchmark
