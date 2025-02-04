@@ -1,1 +1,51 @@
+---
+title: SemEval-2025 Task 1 Results (Preliminary)
+---
 
+This page displays *preliminary* results for the **AdMIRe** tasks. It will be updated with the final standings once we have received system description papers from participants.
+
+Note that these leaderboards are based on submissions made public on CodaBench, and that participants must submit both a system description paper and scores on the extended evaluation set to be entered on the final leaderboard.
+
+## Subtask A
+
+### Text and Images - English
+
+
+| CodaBench Username | Top 1 Accuracy (Test set) | DCG Score (Test set) | Top 1 Accuracy (Extended eval set) | DCG Score (Extended eval set) |
+| --- | --- | --- | --- | --- | --- |
+| zzzbb | 0.9333333333 | 3.581720387 |  |  |
+
+
+mbadran|0.9333333333|3.449606871|0.72|3.219422974
+dd101bb|0.9333333333|3.522990844|0.83|3.425982128
+dutir914|0.9333333333|3.4642974|0.79|3.284456751
+fanyuming2023|0.8666666667|3.507510575|0.64|3.09915218
+arash3908|0.8666666667|3.437166897|0.48|2.903846612
+daalft|0.8666666667|3.427097931|0.81|3.354162837
+dadonapo97|0.8666666667|3.381085414|0.75|3.204763861
+azernik|0.8666666667|3.358335522|-999|-999
+78910z|0.8|3.325397952|0.78|3.27863964
+illusion|0.8|3.323302209||
+lawalmujeeb|0.8|3.309521919|-999|-999
+anaryegen|0.7333333333|3.125241354|0.58|2.999047659
+likeaok|0.7333333333|3.176618663|0.46|2.764786023
+zhoumou|0.7333333333|3.200158295|0.69|3.213653097
+likeaok|0.7333333333|3.157306571|0.43|2.73123315
+78910z|0.7333333333|3.102324451|0.46|2.770705363
+jiarongt09|0.6666666667|3.157272258|-999|-999
+juehleeyu|0.6666666667|3.116825855|-999|-999
+uorncl|0.6666666667|3.102217938|0.57|2.957176255
+ldlbest|0.6666666667|3.044506888|0.78|3.184284816
+lawalmujeeb|0.6666666667|3.128283435|-999|-999
+lorenzo|0.6666666667|3.110982688|0.49|2.835428706
+maira017|0.6|2.897116213|0.47|2.854854469
+phuongnm|0.5333333333|3.140210721|0.55|3.125752959
+xunuo|0.5333333333|2.912790922|0.63|3.001399094
+ldlbest|0.5333333333|2.912790922|0.63|3.000326986
+melodyoftears|0.4666666667|2.84751287||
+uircis|0.4666666667|2.755487835||
+joydeb|0.4666666667|2.724559868||
+ronghaopan|0.4|2.67709878|0.24|2.520244138
+joydeb|0.4|2.585815186|0.41|2.665473031
+uircis1|0.3333333333|2.687563509||
+elvislei|0.1333333333|2.234150413|-999|-999
