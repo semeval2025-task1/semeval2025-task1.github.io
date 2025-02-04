@@ -12,7 +12,6 @@ Note that these leaderboards are based on submissions made public on CodaBench, 
 
 
 | CodaBench Username | Top 1 Accuracy (Test set) | DCG Score (Test set) | Top 1 Accuracy (Extended eval set) | DCG Score (Extended eval set) |
-
 | --- | --- | --- | --- | --- | --- |
 | zzzbb | 0.9333333333 | 3.581720387 |  |  |
 
