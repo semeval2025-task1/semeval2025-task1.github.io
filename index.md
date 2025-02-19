@@ -53,6 +53,8 @@ Development (model/system selection) data are available from the [Development Da
 
 Evaluation (competition ranking) data are available from the [Evaluation Data page](/data/test/test_data.md).
 
+Labelled datasets are now available from the [ORDA data repository](https://orda.shef.ac.uk/articles/dataset/AdMIRe_Advancing_Multimodal_Idiomaticity_Representation_SemEval-2025_Task_1_-_Labelled_Datasets/28436600/1).
+
 #### Sample Data
 
 See the [Sample Data page](/data/sample/sample_data.md) to explore a small sample of (English) training data for both subtasks A and B.
