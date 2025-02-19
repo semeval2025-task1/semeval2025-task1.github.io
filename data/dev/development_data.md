@@ -5,6 +5,7 @@ title: SemEval-2025 Task 1 - Development Data
 Development datasets should be used for model/system selection and to ensure that participants are able to make use of the CodaBench platform ahead of the evaluation phase.
 
 Note that labels are not supplied for the development data here; output scoring should be done using the CodaBench platform.
+Labelled versions of the development datasets may be obtained from the [ORDA repository](https://orda.shef.ac.uk/articles/dataset/AdMIRe_Advancing_Multimodal_Idiomaticity_Representation_SemEval-2025_Task_1_-_Labelled_Datasets/28436600/1). Note that the **sentence_type** and **expected_order** fields should not be consumed by systems and are made available for analysis purposes. 
 
 
 ### Subtask A - Static Images
