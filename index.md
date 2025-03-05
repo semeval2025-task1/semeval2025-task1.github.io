@@ -64,7 +64,7 @@ To discuss the task and receive information about future developments, join the 
 
 The SemEval-2025 competition period has now ended, but the AdMIRe benchmarks remain open on [CodaBench](https://www.codabench.org/) for each of the subtasks, and can be used to evaluate models against the reference data.
 
-**Preliminary leaderboards are available on the [Results page](/docs/results.md).**
+**Final leaderboards are now available on the [Results page](/docs/results.md).**
 
 #### Subtask A
 
@@ -87,10 +87,11 @@ The SemEval-2025 competition period has now ended, but the AdMIRe benchmarks rem
 - Subtask A (Bazilian Portuguese) [Training data](/data/training/training_data.md) now available
 - [Development data](/data/dev/development_data.md) now available
 - [Evaluation data](/data/test/test_data.md) now available
-- - **Extended evaluation data are now available**
+- Extended evaluation data are now available
 - Evaluation start 10 January 2025
 - Evaluation end by 31 January 2025
-- **Paper submission due 28 February 2025**
+- Paper submission due 28 February 2025
+- **Paper review period 07 March 2025 - 24 March 2025**
 - Notification to authors 31 March 2025
 - Camera ready due 21 April 2025
 - SemEval workshop Summer 2025 (co-located with a major NLP conference)
