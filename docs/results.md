@@ -15,18 +15,18 @@ This page will be updated with links to the system description papers when they 
 | --- | --- | --- | --- | --- | --- | --- |
 PALI-NLP | 1 | 1 | 0.93 | 3.52 | 0.83 | 3.43
 dutir914 | 2 | 3 | 0.93 | 3.46 | 0.79 | 3.28
-AlexUNLP | 3 | 4 | 0.93 | 3.45 | 0.72 | 3.22
+AlexUNLP | 3 | 5 | 0.93 | 3.45 | 0.72 | 3.22
 AIMA | 4 | 10 | 0.87 | 3.44 | 0.48 | 2.90
 daalft | 5 | 2 | 0.87 | 3.43 | 0.81 | 3.35
-UCSC NLP T6 | 6 | - | 0.87 | 3.36 | | 
-Zhoumou | 7 | 5 | 0.73 | 3.20 | 0.69 | 3.21
-HiTZ-Ixa | 8 | 6 | 0.73 | 3.13 | 0.58 | 3.00
-TübingenCL | 9 | - | 0.67 | 3.16 | | 
-Howard University-AI4PC | 10 | - | 0.67 | 3.13 | | 
-PoliTo | 11 | 9 | 0.67 | 3.11 | 0.49 | 2.84 
-UoR-NCL | 12 | 7 | 0.67 | 3.10 | 0.57 | 2.96
+PoliTo | 6 | 4 | 0.87 | 3.38 | 0.75 | 3.20 
+UCSC NLP T6 | 7 | - | 0.87 | 3.36 | | 
+Zhoumou | 8 | 6 | 0.73 | 3.20 | 0.69 | 3.21
+HiTZ-Ixa | 9 | 7 | 0.73 | 3.13 | 0.58 | 3.00
+TübingenCL | 10 | - | 0.67 | 3.16 | | 
+Howard University-AI4PC | 11 | - | 0.67 | 3.13 | | 
+UoR-NCL | 12 | 8 | 0.67 | 3.10 | 0.57 | 2.96
 FJWU_SemEvalSquad | 13 | 11 | 0.60 | 2.90 | 0.47 | 2.85
-JNLP | 14 | 8 | 0.53 | 3.14 | 0.55 | 3.13
+JNLP | 14 | 9 | 0.53 | 3.14 | 0.55 | 3.13
 Modgenix | 15 | - | 0.53 | 2.82 | | 
 YNU-HPCC | 16 | - | 0.47 | 2.85 | | 
 UMUTeam | 17 | 12 | 0.40 | 2.68 | 0.24 | 2.52
@@ -37,10 +37,11 @@ UMUTeam | 17 | 12 | 0.40 | 2.68 | 0.24 | 2.52
 | Team | Rank (Test set) | Rank (Extended eval set) | Top 1 Accuracy (Test set) | DCG Score (Test set) | Top 1 Accuracy (Extended eval set) | DCG Score (Extended eval set) |
 | --- | --- | --- | --- | --- | --- | --- |
 CTYUN-AI | 1 | 1 | 0.87 | 3.51 | 0.64 | 3.10 
-daalft | 2 | 4 | 0.67 | 3.07 | 0.33 | 2.61 
-JNLP | 3 | 3 |0.67 | 3.04 | 0.51 | 2.86 
-Transformer25 | 4 | 2 | 0.47 | 2.82 | 0.54 | 3.04
-ChuenSumi | 5 | 5 | 0.40 | 2.89 | 0.29 | 2.68
+PoliTo | 2 | 2 | 0.67 | 3.07 | 0.59 | 3.04
+daalft | 3 | 5 | 0.67 | 3.07 | 0.33 | 2.61 
+JNLP | 4 | 4 |0.67 | 3.04 | 0.51 | 2.86 
+Transformer25 | 5 | 3 | 0.47 | 2.82 | 0.54 | 3.04
+ChuenSumi | 6 | 6 | 0.40 | 2.89 | 0.29 | 2.68
 
 
 ## Text and Images - Portuguese
