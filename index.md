@@ -88,13 +88,13 @@ The SemEval-2025 competition period has now ended, but the AdMIRe benchmarks rem
 - [Development data](/data/dev/development_data.md) now available
 - [Evaluation data](/data/test/test_data.md) now available
 - Extended evaluation data are now available
-- Evaluation start 10 January 2025
-- Evaluation end by 31 January 2025
-- Paper submission due 28 February 2025
-- **Paper review period 07 March 2025 - 24 March 2025**
-- Notification to authors 31 March 2025
-- Camera ready due 21 April 2025
-- SemEval workshop Summer 2025 (co-located with a major NLP conference)
+- ~~Evaluation start 10 January 2025~~
+- ~~Evaluation end by 31 January 2025~~
+- ~~Paper submission due 28 February 2025~~
+- ~~Paper review period 07 March 2025 - 24 March 2025~~
+- Notification to authors ~~31 March 2025~~ 07 April 2025
+- Camera ready due **28 April 2025**
+- SemEval workshop 31 July - 01 August 2025 (co-located with [ACL 2025](https://2025.aclweb.org/))
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
@@ -116,3 +116,13 @@ __Contact:__ <semeval-2025-multimodal-idiomaticity@googlegroups.com>
 - [Frequently Asked Questions about SemEval](https://semeval.github.io/faq.html)
 - [Paper Submission Requirements](https://semeval.github.io/paper-requirements.html)
 - [Guidelines for Writing Papers](https://semeval.github.io/system-paper-template.html)
+
+### Acknowledgements
+
+The task organisers would like to acknowledge the contributions of our Brazilian collaborators who made this work possible. In particular, our thanks go to Rozane Rebechi, Juliana Carvalho, Eduardo Victor, César Rennó Costa, Marina Ribeiro and their colleagues and students.
+
+This work was supported by the UKRI AI [Centre for Doctoral Training in Speech and Language Technologies (SLT) and their Applications](https://slt-cdt.sheffield.ac.uk/) funded by UK Research and Innovation \[grant number EP/S023062/1\].
+
+This work also received support from the CA21167 COST action UniDive, funded by COST (European Cooperation in Science and Technology).
+
+<img src="docs/assets/unidive_logo.png" width="300">  <img src="docs/assets/COST_LOGO_rgb_highresolution.jpg" width="300">
