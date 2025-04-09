@@ -125,4 +125,4 @@ This work was supported by the UKRI AI [Centre for Doctoral Training in Speech a
 
 This work also received support from the CA21167 COST action UniDive, funded by COST (European Cooperation in Science and Technology).
 
-<img src="docs/assets/unidive_logo.png" width="300">  <img src="docs/assets/COST_LOGO_rgb_highresolution.jpg" width="300">
+<img src="docs/assets/UniDive_Logo.png" width="300">  <img src="docs/assets/COST_LOGO_rgb_highresolution.jpg" width="300">
