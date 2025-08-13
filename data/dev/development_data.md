@@ -5,30 +5,7 @@ title: SemEval-2025 Task 1 - Development Data
 Development datasets should be used for model/system selection and to ensure that participants are able to make use of the CodaBench platform ahead of the evaluation phase.
 
 Note that labels are not supplied for the development data here; output scoring should be done using the CodaBench platform.
-Labelled versions of the development datasets may be obtained from the [ORDA repository](https://orda.shef.ac.uk/articles/dataset/AdMIRe_Advancing_Multimodal_Idiomaticity_Representation_SemEval-2025_Task_1_-_Labelled_Datasets/28436600/1). Note that the **sentence_type** and **expected_order** fields should not be consumed by systems and are made available for analysis purposes. 
-
-
-### Subtask A - Static Images
-
-#### English
-
-English development data for Subtask A can be obtained here:
-
-[Subtask A Development Data - English](https://drive.google.com/file/d/1PUguGPPklcXUfV2GvmUi6Pqgew6RlRg7/view?usp=drive_link)
-
-#### Portuguese
-
-Portuguese development data for Subtask A can be obtained here:
-
-[Subtask A Development Data - Portuguese](https://drive.google.com/file/d/1YVu9M41lKbKzgXspeuOg9Wmly4BiG4Bs/view?usp=drive_link)
-
-
-### Subtask B - Sequences
-
-English development data for Subtask B can be obtained here:
-
-[Subtask B Development Data - English](https://drive.google.com/file/d/17C-NylS8tee1mM395sBRwdxinvpafb18/view?usp=drive_link)
-
+Labelled versions of the development datasets may be obtained from the [ORDA repository](https://doi.org/10.15131/shef.data.28436600). Note that the **sentence_type** and **expected_order** fields (labels) should not be consumed by systems and are made available for analysis purposes. 
 
 
 
@@ -46,7 +23,7 @@ English development data for Subtask A.
 15 items.
 
 See the [Training Data page](/data/training/training_data.md) for a detailed description.
-Note that the fields **sentence_type** and **expected_order** are blank in the development dataset, with the latter being the target output.
+Note that the fields **sentence_type** and **expected_order** should be treated as blanks for development, with the latter being the target output.
 
 
 AdMIRe Subtask A PT Dev.zip
@@ -56,7 +33,7 @@ Brazilian Portuguese development data for Subtask A.
 10 items.
 
 See the [Training Data page](/data/training/training_data.md) for a detailed description.
-Note that the fields **sentence_type** and **expected_order** are blank in the development dataset, with the latter being the target output.
+Note that the fields **sentence_type** and **expected_order** should be treated as blanks for development, with the latter being the target output.
 
 
 ## Subtask B
@@ -68,4 +45,4 @@ English training data for Subtask B.
 5 items.
 
 See the [Training Data page](/data/training/training_data.md) for a detailed description.
-Note that the fields **sentence_type** and **expected_order** are blank in the development dataset, and are the target output for systems.
+Note that the fields **sentence_type** and **expected_order** should be treated as blanks for development, and are the target output for systems.
