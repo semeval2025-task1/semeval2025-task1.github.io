@@ -7,23 +7,16 @@ title: SemEval-2025 Task 1 - Training Data
 
 #### English
 
-English training data for Subtask A can be obtained here:
-
-[Subtask A Training Data - English](https://drive.google.com/file/d/1D5zcLxejMpYMZUD63Ljd8LhV18MycJPY/view?usp=drive_link)
+English training data for Subtask A can be obtained from the [ORDA data repository](https://doi.org/10.15131/shef.data.28436600).
 
 #### Portuguese
 
-Portuguese training data for Subtask A can be obtained here:
-
-[Subtask A Training Data - Portuguese](https://drive.google.com/file/d/1wXikkvk5wMP14GNWjkqm662IHKZbzN-R/view?usp=drive_link)
+Portuguese training data for Subtask A can be obtained from the [ORDA data repository](https://doi.org/10.15131/shef.data.28436600).
 
 
 ### Subtask B - Sequences
 
-English training data for Subtask B are now available:
-
-[Subtask B Training Data - English](https://drive.google.com/file/d/1SL_1ARAyyWRCq3a0Fq8qhWj8EJwpPY4k/view?usp=sharing)
-
+English training data for Subtask B can be obtained from the [ORDA data repository](https://doi.org/10.15131/shef.data.28436600).
 
 
 
