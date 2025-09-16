@@ -55,6 +55,8 @@ Evaluation (competition ranking) data are available from the [Evaluation Data pa
 
 Labelled datasets are now available from the [ORDA data repository](https://orda.shef.ac.uk/articles/dataset/AdMIRe_Advancing_Multimodal_Idiomaticity_Representation_SemEval-2025_Task_1_-_Labelled_Datasets/28436600/1).
 
+Scoring scripts (if you want to evaluate the models locally) can be found here: [Subtask A](/data/admire_taska_scoring.zip), [Subtask B](/data/admire_taskb_scoring.zip).
+
 #### Sample Data
 
 See the [Sample Data page](/data/sample/sample_data.md) to explore a small sample of (English) training data for both subtasks A and B.
@@ -92,8 +94,8 @@ The SemEval-2025 competition period has now ended, but the AdMIRe benchmarks rem
 - ~~Evaluation end by 31 January 2025~~
 - ~~Paper submission due 28 February 2025~~
 - ~~Paper review period 07 March 2025 - 24 March 2025~~
-- Notification to authors ~~31 March 2025~~ 07 April 2025
-- Camera ready due **28 April 2025**
+- ~~Notification to authors ~~31 March 2025~~ 07 April 2025~~
+- ~~Camera ready due **28 April 2025**~~
 - SemEval workshop 31 July - 01 August 2025 (co-located with [ACL 2025](https://2025.aclweb.org/))
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
